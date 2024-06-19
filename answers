@@ -1,0 +1,48 @@
+1.Document detailing the setup process with step-by-step instructions and screenshots where necessary.
+System Requirements
+•	List the minimum hardware requirements for Windows 11 (e.g., TPM 2.0, Secure Boot).
+•	Explain how to check your PC’s compatibility using Microsoft’s PC Health Check tool.
+Creating Installation Media
+•	Download the Windows 11 installation media creation tool from Microsoft’s website.
+•	Guide on how to create a bootable USB drive or DVD using the tool.
+Installing Windows 11
+Booting from Installation Media
+•	Access BIOS or UEFI settings to set the USB or DVD drive as the primary boot device.
+•	Restart the PC and boot from the installation media.
+Initial Setup Screens
+•	Language, time, and keyboard input selection.
+•	Click “Install now” to begin the installation process.
+Customizing Installation Options
+•	Choose the edition of Windows 11 to install (if applicable).
+•	Agree to the license terms and conditions.
+•	Select “Custom: Install Windows only (advanced)” to choose the installation drive and partition.
+Finalizing Installation
+•	Follow on-screen prompts to complete the installation process.
+•	Windows will restart several times. Ensure the installation media is not removed until prompted.Activating Windows 11
+•	Navigate to Settings > Update & Security > Activation.
+•	Enter your product key or use digital license if upgrading from Windows 10.
+
+Installing Drivers
+•	Download and install drivers for your hardware components (e.g., graphics card, motherboard, network adapter) from manufacturers’ websites.
+
+Windows Update
+•	Check for and install the latest Windows updates to ensure security patches and bug fixes are up to date.
+2. A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
+3. A reflection on the challenges faced during setup and strategies employed to overcome them.
+Hardware Requirements:
+•	Challenge: Windows 11 has stricter hardware requirements, including TPM 2.0 and Secure Boot, which may not be present in older computers.
+•	Solution: Before attempting installation, check your PC's compatibility using Microsoft's PC Health Check tool. If your hardware doesn't meet the requirements, consider upgrading components like the motherboard or TPM module, or sticking with Windows 10.
+Installation Errors:
+•	Challenge: Errors during installation such as freezing or unexpected restarts can occur.
+•	Solution: Ensure your installation media (USB or DVD) is not corrupted. Check for updated drivers and firmware for your hardware before installation. If errors persist, try installing Windows 11 using a different installation media or method (e.g., USB instead of DVD).
+Activation Problems:
+•	Challenge: Activation issues may arise due to product key errors or licensing discrepancies.
+•	Solution: Double-check that you're using a valid product key for Windows 11. If you upgraded from Windows 10, ensure your Windows 10 was activated before the upgrade. Use the Activation Troubleshooter in Windows settings or contact Microsoft support for assistance.
+Application Compatibility:
+•	Challenge: Some applications may not work correctly on Windows 11 due to compatibility issues.
+•	Solution: Check with the software vendors for updates or patches that support Windows 11. Consider using compatibility modes or virtualization tools for older software. Alternatively, explore alternative applications that are compatible with Windows 11.
+
+
+Data Loss:
+•	Challenge: Incorrect installation procedures or upgrading without proper backups can lead to data loss.
+•	Solution: Before upgrading, perform a full backup of your important files and settings. Use Windows' built-in backup tools or third-party software to create a system image. Verify your backups before proceeding with the installation to ensure you can restore your data if something goes wrong.
